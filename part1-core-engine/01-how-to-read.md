@@ -20,6 +20,8 @@ In these rules, we use a dual reference system:
 
 ***
 
+{% embed url="https://www.youtube.com/watch?v=pzWnGMCP5tk" %}
+
 ## Rules Interpretation
 
 To ensure a fair and consistent experience, all rules in Gloom of Gods are governed by a few fundamental principles.
