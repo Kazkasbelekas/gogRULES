@@ -32,12 +32,13 @@ To ensure a fair and consistent experience, all rules in Gloom of Gods are gover
 The most important principle is that a specific rule always overrides a general one. If rules seem to contradict each other, their precedence is resolved in the following order, from highest to lowest authority:
 
 1. **Scenario Rules:** [These have the](#user-content-fn-2)[^2] highest authority and override all other rules.
-2. Attack Test [Active Player](https://app.gitbook.com/s/vFqeg0Tp1r7fZtXXNCvj/#active-player "mention")
-3. ### [Command Seals ](01-how-to-read.md#rules-interpretation)(⚜️CS)
-4. ### [#wound](../part-i-core-engine/2-the-unit-profile.md#wound "mention")
-5. ###
-6. ### [#wound](../part-i-core-engine/2-the-unit-profile.md#wound "mention")
+2. [Attack](../part-i-core-engine/2-the-unit-profile.md#wound-n.-game-term-the-specific-unit-of-damage.-a-unit-suffers-one-wound-for-each-uncanceled-hit-it) Test [Active Player](https://app.gitbook.com/s/vFqeg0Tp1r7fZtXXNCvj/#active-player "mention")
+3.
+4. ### [Command Seals ](01-how-to-read.md#rules-interpretation)(⚜️CS)
+5. ### [#wound](../part-i-core-engine/2-the-unit-profile.md#wound "mention")
+6. ###
+7. ### [#wound](../part-i-core-engine/2-the-unit-profile.md#wound "mention")
 
 [^1]: asfsfsf [https://app.gitbook.com/o/HI7WXC2i7nCP0jQ8AcC7/s/bmaSbhiwy6zJKgnpbanH/\~/changes/10/part-i-core-engine/2-the-unit-profile#wound](https://app.gitbook.com/o/HI7WXC2i7nCP0jQ8AcC7/s/bmaSbhiwy6zJKgnpbanH/~/changes/10/part-i-core-engine/2-the-unit-profile#wound)
 
-[^2]: SDGAdsgafgdhg [#wound](../part-i-core-engine/2-the-unit-profile.md#wound "mention")
+[^2]: SDGAdsgafgdhg [#wound-n.-game-term-the-specific-unit-of-damage.-a-unit-suffers-one-wound-for-each-uncanceled-hit-it](../part-i-core-engine/2-the-unit-profile.md#wound-n.-game-term-the-specific-unit-of-damage.-a-unit-suffers-one-wound-for-each-uncanceled-hit-it "mention")
