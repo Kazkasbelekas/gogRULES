@@ -17,6 +17,7 @@ In these rules, we use a dual reference system:
 
 * **The section number (§)**, such as **§11.2.6**, indicates the rule's specific location within this document. Use this for reading the rules in order or finding a topic in the table of contents.
 * **The short CODE**, such as **MAG.60**, is a stable identifier for a specific game event. This code is used on unit cards, in the app, and for quick reference during gameplay, as it will never change even if the rulebook layout is updated.
+* This is a simple Test
 
 ***
 
