@@ -31,7 +31,7 @@ To ensure a fair and consistent experience, all rules in Gloom of Gods are gover
 
 The most important principle is that a specific rule always overrides a general one. If rules seem to contradict each other, their precedence is resolved in the following order, from highest to lowest authority:
 
-1. **Scenario Rules:** [These have the](#user-content-fn-2)[^2] highest authority and override all other rules.
+1. **Scenario Rules:** [<kbd><mark style="color:$success;">These have the<mark style="color:$success;"></kbd>](#user-content-fn-2)[^2] highest authority and override all other rules.
 2. [Attack](../part-i-core-engine/2-the-unit-profile.md#wound-n.-game-term-the-specific-unit-of-damage.-a-unit-suffers-one-wound-for-each-uncanceled-hit-it) Test [Active Player](https://app.gitbook.com/s/vFqeg0Tp1r7fZtXXNCvj/#active-player "mention")
 3.
 4. ### [Command Seals ](01-how-to-read.md#rules-interpretation)(⚜️CS)
