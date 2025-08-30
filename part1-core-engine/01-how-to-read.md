@@ -5,7 +5,7 @@ coverY: 0
 
 # §1 How to Read the Rules
 
-This chapter explains the core principles of how to interpret the rules and defines the key terminology used throughout this book. Understanding these concepts is the first step to mastering the game.adfagfag[^1]
+This chapter explains the core principles of how to interpret the rules and defines the key terminology used throughout this book. Understanding these concepts is the first step to mastering the game.adfagfag[^1] [#the-dual-reference-system](01-how-to-read.md#the-dual-reference-system "mention") /
 
 <figure><img src="../.gitbook/assets/ChatGPT Image Jun 27, 2025, 06_30_05 PM.png" alt=""><figcaption></figcaption></figure>
 
