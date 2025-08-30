@@ -34,5 +34,6 @@ The most important principle is that a specific rule always overrides a general 
 1. **Scenario Rules:** These have the highest authority and override all other rules.
 2. Attack Test&#x20;
 3. ### Command Seals (⚜️CS)
+4. ### [#wound](../part-i-core-engine/2-the-unit-profile.md#wound "mention")
 
 [^1]: asfsfsf [https://app.gitbook.com/o/HI7WXC2i7nCP0jQ8AcC7/s/bmaSbhiwy6zJKgnpbanH/\~/changes/10/part-i-core-engine/2-the-unit-profile#wound](https://app.gitbook.com/o/HI7WXC2i7nCP0jQ8AcC7/s/bmaSbhiwy6zJKgnpbanH/~/changes/10/part-i-core-engine/2-the-unit-profile#wound)
