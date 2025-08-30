@@ -7,6 +7,8 @@ coverY: 0
 
 This chapter explains the core principles of how to interpret the rules and defines the key terminology used throughout this book. Understanding these concepts is the first step to mastering the game.
 
+<figure><img src="../.gitbook/assets/ChatGPT Image Jun 27, 2025, 06_30_05 PM.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## The Dual Reference System
