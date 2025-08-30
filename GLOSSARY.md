@@ -129,4 +129,9 @@ The player who has fewer 💎Soulshards at the beginning of a round. [cite_start
 ---
 
 ## Wound (🩸)
+
 A unit of damage. [cite_start]A unit suffers one 🩸Wound for each uncanceled ⚔️Hit it takes from an attack[cite: 253].
+
+## Test
+
+This is a test tooltip.
