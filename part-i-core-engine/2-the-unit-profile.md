@@ -20,10 +20,10 @@ description: asdasdasd
 
 Both players gather their dice pools and roll them simultaneously.
 
-* Attacker: Always rolls their full dice pool as indicated by the attack's profile (e.g., both 🟥Attack Dice and 🟦Defense Dice from their statline).
-* Defender:
-* In a Melee Attack Action: Rolls their full 🛡️Defense (D) characteristic (both 🟥 and 🟦 dice).
-* In a Ranged Attack: Rolls only the 🟦Defense Dice from their 🛡️Defense (D) characteristic.
+* **Attacker:** Always rolls their full dice pool as indicated by the attack's profile (e.g., both 🟥Attack Dice and 🟦Defense Dice from their statline).
+* **Defender:**
+  * In a Melee Attack Action: Rolls their full 🛡️Defense (D) characteristic (both 🟥 and 🟦 dice).
+  * **In a Ranged Attack:** Rolls only the 🟦Defense Dice from their 🛡️Defense (D) characteristic.
 {% endstep %}
 
 {% step %}
