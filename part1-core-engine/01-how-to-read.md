@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/sdf.JPG
+cover: ../.gitbook/assets/generation-be9c6125-7c08-4f17-8037-128fb678e20d.png
 coverY: 0
 ---
 
