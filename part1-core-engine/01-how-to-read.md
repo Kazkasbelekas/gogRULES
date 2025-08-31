@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Gemini_Generated_Image_jva2dxjva2dxjva2.png
+cover: ../.gitbook/assets/sdf.JPG
 coverY: 0
 ---
 
