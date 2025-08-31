@@ -16,7 +16,7 @@ description: asdasdasd
 
 {% stepper %}
 {% step %}
-**Step ATC.10 Roll**
+**Step ATC.10 → Roll**
 
 Both players gather their dice pools and roll them simultaneously.
 
